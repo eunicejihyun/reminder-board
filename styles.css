@@ -1,0 +1,80 @@
+h1 {
+    text-align: center;
+    padding: 0.7em;
+}
+
+
+#form {
+    max-width: 30em;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.form-input-block textarea  {
+    width: 80%;
+    margin: 15px 0;
+}
+
+#checkboxes {
+    text-align: left;
+    margin: 25px 0;
+}
+
+input[type="radio"] {
+    margin-right: 15px;
+}
+
+input[type="submit"] {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    width: 10em;
+    border: 0px;
+}
+
+#notes {
+    padding: 0;
+}
+
+.post-it {
+    height: 10rem;
+    margin: 0;
+    padding: 0;
+    border: 5px solid white;
+    display: table;
+}
+
+.radio-button {
+    border: 1px solid white;
+}
+
+.postit-text {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+.shopping {
+    background-color: lavender
+}
+
+.house {
+    background-color: seashell;
+}
+
+.startup {
+    background-color: peachpuff;
+}
+
+.apps {
+    background-color: plum;
+}
+
+.personal {
+    background-color: powderblue;
+}
+
+.remember {
+    background-color: rgb(159, 191, 249);
+}
